@@ -1,3 +1,8 @@
 *.swp
 *.o
 WebServer.exe
+
+.exe
+Debug
+
+*.opendb
